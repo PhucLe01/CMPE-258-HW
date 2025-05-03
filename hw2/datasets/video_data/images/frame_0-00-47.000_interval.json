@@ -1,0 +1,17 @@
+{
+    "frame_index": 1175,
+    "timestamp_seconds": 47.0,
+    "timestamp": "0:00:47.000",
+    "extraction_reason": "interval",
+    "original_dimensions": {
+        "width": 1920,
+        "height": 1080
+    },
+    "resized_dimensions": {
+        "width": 640,
+        "height": 360
+    },
+    "video_creation_time": "2016-11-13T19:57:51.000000Z",
+    "frame_creation_time": "2016-11-13T19:58:38",
+    "extraction_time": "2025-04-29T19:10:08.501872"
+}

@@ -1,0 +1,15 @@
+
+Benchmarks complete for yolov8n.pt on coco128.yaml at imgsz=640 (6.52s)
+Benchmarks legend:  - ✅ Success  - ❎ Export passed but validation failed  - ❌️ Export failed
+  Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)    FPS
+0   ONNX       ✅       12.2               0.4537                   38.03  26.29
+
+Benchmarks complete for yolov8n.pt on coco128.yaml at imgsz=640 (6.96s)
+Benchmarks legend:  - ✅ Success  - ❎ Export passed but validation failed  - ❌️ Export failed
+     Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)    FPS
+0  OpenVINO       ✅       12.3               0.4522                   26.99  37.06
+
+Benchmarks complete for yolov8n.pt on coco128.yaml at imgsz=640 (7.67s)
+Benchmarks legend:  - ✅ Success  - ❎ Export passed but validation failed  - ❌️ Export failed
+    Format Status❔  Size (MB)  metrics/mAP50-95(B)  Inference time (ms/im)   FPS
+0  PyTorch       ✅        6.2               0.4492                   53.18  18.8
